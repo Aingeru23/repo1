@@ -12,7 +12,7 @@ package repositorio.repaso1;
 public class Repaso1 {
 
     public static void main(String[] args) {
-        System.out.println("Primera linea");
+        System.out.println("Linea con conflicto");
         System.out.println("segunda linea");
     }
 }
